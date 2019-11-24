@@ -1,0 +1,10 @@
+
+chinese input: https://blog.csdn.net/mint_ying/article/details/80267005
+sudo apt-get install ibus-pinyin
+然后在 settings 的 Region & Language 的 Input Sources设置栏中
+
+    点击 Manage Installed Language ，初次进入会安装些字体等相关信息。重启后使之生效。
+    点击 + 添加 Chinese(Intelligent Pinyin)。重启后使之生效。
+————————————————
+版权声明：本文为CSDN博主「mint_ying」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/mint_ying/article/details/80267005
